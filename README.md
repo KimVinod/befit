@@ -1,4 +1,4 @@
 # BeFit
-**Android Application**  
-current build: alpha  
-current version: v0.2.5  
+**Application info**
+- current build: alpha  
+- current version: v0.2.5  
