@@ -1,6 +1,6 @@
 <AppUpdater>
   <update>
-    <latestVersion>v0.2.6</latestVersion>
+    <latestVersion>0.2.6</latestVersion>
     <latestVersionCode>19</latestVersionCode>
     <url>https://github.com/KimVinod/BeFit/releases</url>
     <releaseNotes>
