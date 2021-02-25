@@ -4,8 +4,8 @@
     <latestVersionCode>19</latestVersionCode>
     <url>https://github.com/KimVinod/BeFit/releases</url>
     <releaseNotes>
-- Testing
-- Second evolution
+- Version: v0.2.6-alpha
+- Improved loading animation
 - Bug fixes
     </releaseNotes>
   </update>
