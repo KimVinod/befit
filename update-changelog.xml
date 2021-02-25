@@ -4,9 +4,10 @@
     <latestVersionCode>19</latestVersionCode>
     <url>https://github.com/KimVinod/BeFit/releases</url>
     <releaseNotes>
-- Version: v0.2.6-alpha
-- Improved loading animation
-- Bug fixes
+      Version: v0.2.6-alpha\n
+      What's new?\n
+      - Improved loading animation
+      - Bug fixes
     </releaseNotes>
   </update>
 </AppUpdater>
