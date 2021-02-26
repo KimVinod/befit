@@ -1,13 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.2.6</latestVersion>
-    <latestVersionCode>19</latestVersionCode>
-    <url>https://github.com/KimVinod/BeFit/releases/download/v0.2.6/BeFit-0.2.6.apk</url>
+    <latestVersion>0.2.7</latestVersion>
+    <latestVersionCode>20</latestVersionCode>
+    <url>https://github.com/KimVinod/BeFit/releases/download/v0.2.7/BeFit-0.2.7.apk</url>
     <releaseNotes>
-Version: v0.2.6-alpha
+New version: v0.2.7-alpha
 What's new?
-- Improved loading animation
-- Bug fixes
+- Changed posotion of loading animation.
+- Added Pedometer(Beta).
     </releaseNotes>
   </update>
 </AppUpdater>
