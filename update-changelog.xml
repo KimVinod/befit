@@ -1,14 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.2.9</latestVersion>
-    <latestVersionCode>22</latestVersionCode>
-    <url>https://github.com/KimVinod/BeFit/releases/download/v0.2.9/BeFit-0.2.9.apk</url>
+    <latestVersion>0.3</latestVersion>
+    <latestVersionCode>23</latestVersionCode>
+    <url>https://github.com/KimVinod/BeFit/releases/download/v0.3/BeFit-0.3.apk</url>
     <releaseNotes>
-New version: v0.2.9-alpha
+New version: v0.3-alpha
 What's new?
-- Removed Pedometer.
-- Changed FAQ page.
-- Changed Workout video link.
+- Now you can check your progress in Overview.
+- Position of app title and icons are fixed.
     </releaseNotes>
   </update>
 </AppUpdater>
