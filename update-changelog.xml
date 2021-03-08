@@ -1,13 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.3</latestVersion>
-    <latestVersionCode>23</latestVersionCode>
-    <url>https://drive.google.com/file/d/1zNyUXY8zXvBAANBz4wyEjV3bOKrNwlKA/view?usp=sharing</url>
+    <latestVersion>0.3.1</latestVersion>
+    <latestVersionCode>24</latestVersionCode>
+    <url>https://drive.google.com/file/d/1cY1fOqZuO5cXc2GEqXWFhVtXvDs3heAF/view?usp=sharing</url>
     <releaseNotes>
-New version: v0.3-alpha
+New version: v0.3.1-alpha
 What's new?
-- Now you can check your progress in Overview.
-- Position of app title and icons are fixed.
+- Now values get reset daily at 1 AM local time.
+- improved walkthrough guide.
     </releaseNotes>
   </update>
 </AppUpdater>
