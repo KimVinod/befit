@@ -1,13 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.3.3</latestVersion>
-    <latestVersionCode>26</latestVersionCode>
-    <url>https://drive.google.com/file/d/1Df8TgtgIRSihnoE5jWy9vY2rKoN5wuCE/view?usp=sharing</url>
+    <latestVersion>0.3.4</latestVersion>
+    <latestVersionCode>27</latestVersionCode>
+    <url>https://drive.google.com/file/d/1foANnWKGdnW7cV7EMor5cyJdeHfYtsx9/view?usp=sharing</url>
     <releaseNotes>
-New version: v0.3.3-alpha
+New version: v0.3.4-alpha
 What's new?
-- Improved app startup time.
-- Removed physical activty permission.
+- UI changes.
+- Bug fixes.
     </releaseNotes>
   </update>
 </AppUpdater>
