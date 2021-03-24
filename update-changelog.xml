@@ -1,12 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.3.6</latestVersion>
-    <latestVersionCode>29</latestVersionCode>
-    <url>https://drive.google.com/file/d/17G0Lgwpo1rOJx3p3r71xfQ76BsplchcO/view?usp=sharing</url>
+    <latestVersion>0.3.7</latestVersion>
+    <latestVersionCode>30</latestVersionCode>
+    <url>https://drive.google.com/file/d/1TL7nvG1gyrqYF6FzKENmoZeqLzT6c_2Y/view?usp=sharing</url>
     <releaseNotes>
-New version: v0.3.6-alpha
+New version: v0.3.7-alpha
 What's new?
-- Major bug fixes.
+- UI changes.
     </releaseNotes>
   </update>
 </AppUpdater>
