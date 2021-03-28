@@ -1,12 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.3.8</latestVersion>
-    <latestVersionCode>31</latestVersionCode>
-    <url>https://drive.google.com/file/d/1N68psmxo4OhqD2zx0VYEab5dyW7hHbP8/view?usp=sharing</url>
+    <latestVersion>0.3.9</latestVersion>
+    <latestVersionCode>32</latestVersionCode>
+    <url>https://drive.google.com/file/d/1lwzGn_iJI8Fu20Q7va6xYKUB3PNXegQA/view?usp=sharing</url>
     <releaseNotes>
-New version: v0.3.8-alpha
+New version: v0.3.9-alpha
 What's new?
-- Now you can search food items from the list.
+- UI changes.
+- Bug fixes.
     </releaseNotes>
   </update>
 </AppUpdater>
