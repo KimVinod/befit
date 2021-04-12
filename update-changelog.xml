@@ -1,13 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.4</latestVersion>
-    <latestVersionCode>33</latestVersionCode>
-    <url>https://drive.google.com/file/d/1bkdAk6avpbbk5lE3RGsF168mOkjqTWUk/view?usp=sharing</url>
+    <latestVersion>0.4.1</latestVersion>
+    <latestVersionCode>34</latestVersionCode>
+    <url>https://drive.google.com/file/d/1cNevLQ8IYo0my-XNyB4eUlbbux_-mZoj/view?usp=sharing</url>
     <releaseNotes>
-New version: v0.4-alpha
+New version: v0.4.1-alpha
 What's new?
-- Added app battery optimization in Settings.
-- Bug fixes.
+- Minor changes.
     </releaseNotes>
   </update>
 </AppUpdater>
