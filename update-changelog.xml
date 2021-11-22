@@ -1,12 +1,12 @@
 <AppUpdater>
   <update>
     <latestVersion>1.0</latestVersion>
-    <latestVersionCode>1</latestVersionCode>
-    <url>null</url>
+    <latestVersionCode>2</latestVersionCode>
+    <url>https://lnk.bio/JwzZ</url>
     <releaseNotes>
-New version: v0.4.2-alpha
+New version: v1.0
 What's new?
-- Now you can share our app to your friends.
+- First build.
     </releaseNotes>
   </update>
 </AppUpdater>
