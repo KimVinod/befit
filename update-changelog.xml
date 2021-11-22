@@ -1,8 +1,8 @@
 <AppUpdater>
   <update>
-    <latestVersion>0.4.2</latestVersion>
-    <latestVersionCode>35</latestVersionCode>
-    <url>https://drive.google.com/file/d/13n5oe4sq01iLIVWRgHHjLRbLByRJ0R8m/view?usp=sharing</url>
+    <latestVersion>1.0</latestVersion>
+    <latestVersionCode>1</latestVersionCode>
+    <url>null</url>
     <releaseNotes>
 New version: v0.4.2-alpha
 What's new?
