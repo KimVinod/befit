@@ -1,12 +1,14 @@
 <AppUpdater>
   <update>
     <latestVersion>1.0</latestVersion>
-    <latestVersionCode>1</latestVersionCode>
+    <latestVersionCode>36</latestVersionCode>
     <url>https://lnk.bio/JwzZ</url>
     <releaseNotes>
 New version: v1.0
 What's new?
-- First build.
+- First stable build.
+- Added Themes.
+- Now supports Android 12.
     </releaseNotes>
   </update>
 </AppUpdater>
